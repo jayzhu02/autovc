@@ -1,8 +1,8 @@
-/dataset/
-/wavs/
+/dataset/*
+/wavs/*
 /Testset/
-/spmel/
-!/output/*.wav
+/spmel/*
+!/output/10-26(Clean-data)/
 *.ckpt
 *.pth
 *.wav
