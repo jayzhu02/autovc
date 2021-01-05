@@ -1,0 +1,10 @@
+/dataset/
+/wavs/
+/Testset/
+/spmel/
+!/output/*.wav
+*.ckpt
+*.pth
+*.wav
+/.ipynb_checkpoints
+/__pycache__/
